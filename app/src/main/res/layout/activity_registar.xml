@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/relativni"
+    android:background="@color/colorPrimaryDark">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/pregled_kazni"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="PREGLED KAZNI U SAOBRAĆAJU\nZa pregled kazni unesite JMBG i kliknite na dugme IZLISTAJ KAZNE"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:fontFamily="Oswald"
+        android:background="@drawable/naslovi"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:textColor="#FFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:id="@+id/textView"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Izlistaj kazne"
+        android:textSize="14sp"
+        android:fontFamily="Oswald"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:textColor="#FFF"
+        android:background="@drawable/oblik_cell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="280dp"
+        android:height="@dimen/place_autocomplete_prediction_height"
+        android:id="@+id/izlistajKazne"
+
+        android:layout_below="@+id/JMBG"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:inputType="number"
+        android:ems="15"
+        android:textColor="#FFF"
+        android:gravity="center"
+        android:layout_marginTop="117dp"
+        android:id="@+id/JMBG"
+        android:hint="Unesite JMBG"
+        android:textColorHint="#bac0bd"
+        android:width="280dp"
+        android:height="@dimen/place_autocomplete_prediction_height"
+        android:background="@drawable/popunjavanja"
+        android:layout_below="@+id/imageView"
+        android:layout_alignLeft="@+id/izlistajKazne"
+        android:layout_alignStart="@+id/izlistajKazne"/>
+
+
+</RelativeLayout>
+

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_b543058d97eb347d734fb24155501c8a11a0ced2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_8fe4dacd8cd4a6f095e0a494482a4ae1b35056f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_0a13bfcd4139fddf1c17b9716ef920a4d7f7ecc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_dcbcde504a6bd29c4a4f15d4f3eeb0d7e3b45403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_9e65cb1c0ee40dadfd098fdacac72b9bd49124f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_82e09dd394bfd68ecc254fd45b988ad3e41e2900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_bc84d85e1195672e6ab5f2d4cab5edd2c734158d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_04b465109ab5406347ae6914c8193f4b13605ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_00acd50e0d648a0c2d1aa068a4669107468834c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_c716be3c17df5ddc3edcb4bc6491e85d8694f73e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_741c1a340c04fa3a33d913a885031e323cc06599\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5e29c4e306713c746581e7c7f7ea33ed7cb7f6cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_60198a68a287b01bf6f4681f9f0013bb26072473\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_8aad52dda123179b6b0619fcd8f1df469b194878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_110d4be499bf605e8d523a6945ace8d586fef018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_ca9fdf90f118a9d9ca33cf446d18c0f719bc02be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_03274cfc0e409951e77cace25c111b9cc18e937a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_5f8db0cde6769bfdf1351e25e136fcfc54231b17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_757e2703b8b0c8537afbd837f171035bb9a276ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_1a4a2215ae74686450f84d6c5979449013abf30d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_bce58ca8be22ce1c47e03debaaf6787a5c2549aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_21eaa8a8e736f572a3060a79a6cb87827002ebc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_80c71a6a5881afee54094e7c2a9e8c7897938d6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_2bff3129a0fb8e3f10fe57eef39a3bcd1c085fe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_e6a0db24d30d9c12c386a1e8396bf93cda6f6bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_d369487ffe807b63bfad1b6eb8777e7e17c31e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_d86e26a53e85e7c2737a9958e76a103e27aa2747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_3ad25d7dcdc3e693f916fd7cb7195ed6f548ab37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_89c91f961217800d005a386d392c5e1c2e0feb3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_8ced2b6e14b70ca14de99a407c4e62347e6f5469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_6efb208490fd1c0ff15bab0fbdf246b8455fa6ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_ce1001a85b471396fd589a2d0b93b0904cdc236d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_2e19e0536e7608e322a8da521f8126ea65b97fa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_081b3206215e992072fac498d1891bf1657a9e53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_f832985579818bb9bcd794ef65e7c5aa9c1599aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9901399d900573c9f294e5b28099228ada44ec89">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4941829bf37d888e3073141647d5e764799827b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_f0aa1e6cb70764db62abb0b72030add6810d2fa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_bd17cb9e2219ed46c95d3384c44aed1da4a704e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_274430e9a073bb2fab049fbf597a2461bba60bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_09a7cdc5903273b63dabe96afd67944654e02f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_5359bcbaa660fd8efb273f11e552c5ca7e8b4759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_d28038ca2cc8826ac6af9c1970528e6c073c3c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4175fce28bdd7cd09857902695e81bf6d56517e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_5e3dfc8c446f0e1d84c4b9804a022bea4d24572b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_bf250a7bf538de2cfddb626cdf9d8febbeffa6d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e407ac09fb65e525ef0a1856c07d16ca3903a891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_6380c0e82384cdfdaabb75df18b408bbc211c7da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_a87f3a40e2a81c2e275e85cdae52edeb585aa92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_40bfcbe0f74d9591118602b4d95ac8c27eb9104d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_69f68506b7d6c55c8d3e9b2298a90fd60a2facf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_200dc537359ef150b7e38933ddb82e85c4752077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_3b83f13e2d1f5004fcf54546f35584276b413698\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="68c621ee2e61037acc6ffaefdc461301a9c0a32e">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b53dc470ad2ead4ad48d12dc7cc88bb25cfb5377\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_016dd6d771ad14c80c13aa3d4fce1070a67f74ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4e46c126f0bf19450241ab52efc62ed2ab1205df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_8f01e70dfed1dfba8909da4e055f69919084022b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_8a8b5b163201e0f64228f5148bf37845f203e7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_d28ec01f7811557e7761c5515c16d39a112c7da8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_a238459a97e8433a167a50be95ae878b654517c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_053a6ce6777c03133cdb811d685b890b00a8cdda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_60cc693e9bcd418dd29acf8b938249d8993acead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_419eb4243afec037b0015145b5dffa859b771cd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_586b0697644183b6ae8c99ca5e89bed4bc59c2b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_cfc2de63ff3f58622b8c59f4e2c710f82e178f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_d7c2fc11a241309ac5ea85acacc26d49a036db52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_8832b39ff3f5cb3ea264f388ea3be98412714f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_7da2df537e7ce43ecaf668af184a7a9223faf335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Ivona\Desktop\ivona\Sabracaj.ba\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_02a0b491369f05be156499ff89d1eea9b42739cd\classes.dex" />
+    </item>
+
+</items>

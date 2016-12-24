@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/activity_servisne_info"
+    android:background="@color/colorPrimaryDark">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/stanje_na_cestama"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="SERVISNE INFORMACIJE\nPregled bitnijih brojeva telefona i \n lokacija za kontakt"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:fontFamily="Oswald"
+        android:background="@drawable/naslovi"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:textColor="#FFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:id="@+id/textView"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Hitna: 122 \nPolicija: 124\nVatrogasci: 123"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:id="@+id/textView2"
+        android:gravity="right"
+        android:fontFamily="Oswald"
+        android:background="@drawable/naslovi"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:textColor="#FFF"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="31dp"
+        android:layout_marginStart="31dp" />
+
+
+</RelativeLayout>
+

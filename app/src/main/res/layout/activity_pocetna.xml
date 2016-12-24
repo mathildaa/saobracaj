@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_pocetna"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.ivona.sabracajba.pocetna"
+    android:background="@color/colorPrimaryDark">
+
+
+    <Button
+        android:text="Info sa cesta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/infoceste"
+        android:textSize="14sp"
+        android:fontFamily="Oswald"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:gravity="top|center"
+        android:textColor="#FFF"
+        android:background="@drawable/oblik_cell"
+        android:layout_marginTop="12dp"
+        android:width="@dimen/cast_expanded_controller_ad_background_layout_height"
+        android:height="@dimen/place_autocomplete_prediction_height"
+        android:layout_below="@+id/Kazne"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2" />
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/pregled_kazni"
+        android:id="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Registar kazni"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Kazne"
+        android:textSize="14sp"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:gravity="top|center"
+        android:fontFamily="Oswald"
+        android:textColor="#FFF"
+        android:background="@drawable/oblik_cell"
+        android:width="280dp"
+        android:height="@dimen/place_autocomplete_prediction_height"
+        android:layout_toEndOf="@+id/imageView"
+        android:layout_toRightOf="@+id/imageView" />
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/stanje_na_cestama"
+        android:id="@+id/imageView2"
+        android:layout_alignTop="@+id/infoceste"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Servisne informacije"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Info"
+        android:textSize="14sp"
+        android:fontFamily="Oswald"
+        android:includeFontPadding="true"
+        android:padding="3dp"
+        android:gravity="top|center"
+        android:textColor="#FFF"
+        android:background="@drawable/oblik_cell"
+        android:width="280dp"
+        android:height="@dimen/place_autocomplete_prediction_height"
+        android:layout_marginTop="9dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2" />
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/stanje_na_cestama"
+        android:id="@+id/imageView3"
+        android:layout_alignTop="@+id/Info"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
